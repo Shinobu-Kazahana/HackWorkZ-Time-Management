@@ -1,5 +1,5 @@
 # HackWorkZ-Time-Management
-A payroll solution for Procore instances
+A custom payroll solution for Procore instances.
 
 
 ![Image 1](./1.png)
