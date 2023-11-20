@@ -1,7 +1,7 @@
 
 # HackWorkz Time Management
 
-A time managemement solution for Procore instances.
+A time managemement solution for Procore instances.(Source closed due to being commercial)
 
 
 
